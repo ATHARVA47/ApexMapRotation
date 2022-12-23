@@ -3,6 +3,7 @@ This is a python script that fetches the latest public matches map as well as ti
 
 # Running the script
 The python script would require your Windows machine to have the required libraries and python3 installed
+For now the paths to the images are of my local device(Ill fix that soon!)
 
 # The exe
 While you should never run an exe off the internet if you want to create your own exe from my python file, so that  it runs without the python installations
