@@ -6,7 +6,9 @@ The python script would require your Windows machine to have the required librar
 For now the paths to the images are of my local device(Ill fix that soon!)
 
 You also require BurntToast for the notifications get it here: https://github.com/Windos/BurntToast
+
 PowerShell Gallery Install (Requires PowerShell v5)
+
 Install-Module -Name BurntToast
       
 # The exe
